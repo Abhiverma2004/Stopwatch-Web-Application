@@ -1,4 +1,4 @@
-Stopwatch Web App
+   Stopwatch Web App
 A simple and elegant stopwatch built using HTML, CSS, and JavaScript. It features start, pause, reset, and lap functionality with a clean and responsive user interface.
 
 ✨ Features
